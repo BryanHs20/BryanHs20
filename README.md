@@ -41,9 +41,6 @@ Antes de interesarme por los datos y la tecnologia, Soy apacinado por la musica,
 ![Tecnologias Web](https://skillicons.dev/icons?i=html,css,bootstrap)
 
 ### **Herramientas y Plataformas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 ![Herramientas y Plataformas](https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,stackoverflow)
 
 ## 🎯 Areas de Interes
