@@ -80,11 +80,7 @@ Aqui algunos de mis proyectos destacados:
 
 ### 🚀 **Otros Proyectos Descatables**
 
-- **🔗 LinkPe**: Node.js API for generating shareable UPI payment links
-- **☁️ Cloud Storage System**: Real-time cloud storage solution with Android app
-- **📊 IPL Prediction**: Machine learning model for IPL match predictions using SVM
-- **💼 Portfolio Tracker**: Comprehensive financial analysis with Medallion architecture
-- **🎨 Portfolio Website**: Personal portfolio with Material Design
+- **🔗 Musicapi: Consumo de apis como spotify, entre otras para desarrollar una plataforma musical
 
 ## 📈 GitHub Stats
 
