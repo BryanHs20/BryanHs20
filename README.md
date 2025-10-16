@@ -34,14 +34,19 @@ Antes de interesarme por los datos y la tecnologia, Soy apacinado por la musica,
 ### **Lenguajes & Tecnologias**
 ![Lenguajes & Tecnologias](https://skillicons.dev/icons?i=py,js,php,cs,dotnet)
 
+### **Librerias Manajeadas**
+<img width="150px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/><img width="150px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  
 ### **Tecnologias en Datos**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img width="150px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
 
 ### **Tecnologias Web**
 ![Tecnologias Web](https://skillicons.dev/icons?i=html,css,bootstrap)
 
 ### **Herramientas y Plataformas**
 ![Herramientas y Plataformas](https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,stackoverflow)
+<img width="150px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
 ## 🎯 Areas de Interes
 
@@ -80,7 +85,7 @@ Aqui algunos de mis proyectos destacados:
 
 ### 🚀 **Otros Proyectos Descatables**
 
-- **🔗 Musicapi: Consumo de apis como spotify, entre otras para desarrollar una plataforma musical
+- **🔗 Musicapi: Consumo de apis como spotify, entre otras para desarrollar una plataforma musical **
 
 ## 📈 GitHub Stats
 
