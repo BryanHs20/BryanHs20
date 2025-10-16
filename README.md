@@ -56,7 +56,7 @@ Antes de interesarme por los datos y la tecnologia, Soy apacinado por la musica,
 
 ## 🎪 Mi gran equipo
 
-- **🎭 Enfoque: Tener claro las metas y el como cumplirlas
+- **🎭 Enfoque**: Tener claro las metas y el como cumplirlas
 - **🧠 Conocimiento**: Expaniendo mas el arsenal tecnologico
 - **🐍 Python**: Mi compañero de resolucion de problemas
 - **☕ Cafe**: El combustible basico
